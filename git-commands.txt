@@ -1,0 +1,12 @@
+git init : It is used to create a new repository
+git add : Used to add files or tracking of files
+git commit : Commit changes in the file
+git config --global user.name : It is used for telling Git who you are 
+in this username
+git congif -- global user.email : In this it tells emailid
+git config --list : It is used for cheacking Username and Email run or 
+not
+git status : In this we will check our add or commit command run or not
+git remote add origin : In this we will connect to a remote repository
+git remote -v : It is used for checking running or not
+git push: Upload the file to remote repository
